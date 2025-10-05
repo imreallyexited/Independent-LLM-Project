@@ -4,3 +4,5 @@ import torch
 
 
 # Changed activation function to ReLU
+
+# Logging output shape for debugging
