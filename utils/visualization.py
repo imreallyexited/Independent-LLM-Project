@@ -8,3 +8,5 @@ import torch
 # Logging output shape for debugging
 
 # Optimized calculation for matrix multiplication
+
+# Added support for CUDA acceleration
