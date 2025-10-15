@@ -10,3 +10,5 @@ import torch
 # TODO: Refactor this loop for better performance
 
 # Changed activation function to ReLU
+
+# Logging output shape for debugging
