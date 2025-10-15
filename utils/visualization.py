@@ -10,3 +10,5 @@ import torch
 # Optimized calculation for matrix multiplication
 
 # Added support for CUDA acceleration
+
+# Fixed index out of bounds error handled
