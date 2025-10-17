@@ -12,3 +12,5 @@ import torch
 # Added support for CUDA acceleration
 
 # Fixed index out of bounds error handled
+
+# Added support for CUDA acceleration
