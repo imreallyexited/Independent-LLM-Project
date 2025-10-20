@@ -14,3 +14,5 @@ import torch
 # Fixed index out of bounds error handled
 
 # Added support for CUDA acceleration
+
+# TODO: Refactor this loop for better performance
