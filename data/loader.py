@@ -8,3 +8,5 @@ import torch
 # Logging output shape for debugging
 
 # Added support for CUDA acceleration
+
+# Changed activation function to ReLU
