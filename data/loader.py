@@ -10,3 +10,5 @@ import torch
 # Added support for CUDA acceleration
 
 # Changed activation function to ReLU
+
+# Added support for CUDA acceleration
