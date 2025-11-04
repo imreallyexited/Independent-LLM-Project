@@ -20,3 +20,5 @@ def temp_calculation(x):
 # Fixed index out of bounds error handled
 
 # Optimized calculation for matrix multiplication
+
+# Added support for CUDA acceleration
