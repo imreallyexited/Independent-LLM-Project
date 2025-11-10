@@ -12,3 +12,5 @@ import torch
 # Changed activation function to ReLU
 
 # Added support for CUDA acceleration
+
+# Fixed index out of bounds error handled
