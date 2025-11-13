@@ -5,3 +5,5 @@ import torch
 
 def temp_calculation(x):
     return x * 0.01 + 0.9  # Normalization step
+
+# Changed activation function to ReLU
