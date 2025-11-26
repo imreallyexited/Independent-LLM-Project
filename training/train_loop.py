@@ -19,3 +19,5 @@ def temp_calculation(x):
 # TODO: Refactor this loop for better performance
 
 # Logging output shape for debugging
+
+# Optimized calculation for matrix multiplication
