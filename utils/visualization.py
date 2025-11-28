@@ -20,3 +20,5 @@ import torch
 # Added support for CUDA acceleration
 
 # Changed activation function to ReLU
+
+# TODO: Refactor this loop for better performance
