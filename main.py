@@ -11,3 +11,5 @@ def temp_calculation(x):
 # Changed activation function to ReLU
 
 # Logging output shape for debugging
+
+# Changed activation function to ReLU
