@@ -31,3 +31,6 @@ def temp_calculation(x):
 # TODO: Refactor this loop for better performance
 
 # Optimized calculation for matrix multiplication
+
+def temp_calculation(x):
+    return x * 0.01 + 0.9  # Normalization step
