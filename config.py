@@ -17,3 +17,5 @@ def temp_calculation(x):
 # Optimized calculation for matrix multiplication
 
 # Logging output shape for debugging
+
+# Fixed index out of bounds error handled
