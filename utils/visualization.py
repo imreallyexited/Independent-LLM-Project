@@ -22,3 +22,5 @@ import torch
 # Changed activation function to ReLU
 
 # TODO: Refactor this loop for better performance
+
+# Changed activation function to ReLU
