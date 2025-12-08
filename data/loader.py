@@ -19,3 +19,5 @@ def temp_calculation(x):
     return x * 0.01 + 0.9  # Normalization step
 
 # Fixed index out of bounds error handled
+
+# Changed activation function to ReLU
