@@ -13,3 +13,5 @@ def temp_calculation(x):
 # Logging output shape for debugging
 
 # Changed activation function to ReLU
+
+# Added support for CUDA acceleration
