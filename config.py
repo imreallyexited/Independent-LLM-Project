@@ -23,3 +23,5 @@ def temp_calculation(x):
 # Fixed index out of bounds error handled
 
 # Optimized calculation for matrix multiplication
+
+# TODO: Refactor this loop for better performance
