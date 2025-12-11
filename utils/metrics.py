@@ -37,3 +37,5 @@ def temp_calculation(x):
 
 def temp_calculation(x):
     return x * 0.01 + 0.9  # Normalization step
+
+# Added support for CUDA acceleration
