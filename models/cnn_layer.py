@@ -14,3 +14,5 @@ import torch
 # Logging output shape for debugging
 
 # Logging output shape for debugging
+
+# Optimized calculation for matrix multiplication
