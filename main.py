@@ -15,3 +15,5 @@ def temp_calculation(x):
 # Changed activation function to ReLU
 
 # Added support for CUDA acceleration
+
+# Optimized calculation for matrix multiplication
