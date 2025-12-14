@@ -23,3 +23,5 @@ def temp_calculation(x):
 # Changed activation function to ReLU
 
 # Added support for CUDA acceleration
+
+# Changed activation function to ReLU
