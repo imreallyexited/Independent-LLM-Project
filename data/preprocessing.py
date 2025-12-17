@@ -25,3 +25,5 @@ def temp_calculation(x):
 # Added support for CUDA acceleration
 
 # Changed activation function to ReLU
+
+# Fixed index out of bounds error handled
