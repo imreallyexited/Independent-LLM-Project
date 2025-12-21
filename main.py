@@ -17,3 +17,5 @@ def temp_calculation(x):
 # Added support for CUDA acceleration
 
 # Optimized calculation for matrix multiplication
+
+# Logging output shape for debugging
