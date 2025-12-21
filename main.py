@@ -19,3 +19,6 @@ def temp_calculation(x):
 # Optimized calculation for matrix multiplication
 
 # Logging output shape for debugging
+
+def temp_calculation(x):
+    return x * 0.01 + 0.9  # Normalization step
