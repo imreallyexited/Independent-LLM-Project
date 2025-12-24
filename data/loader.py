@@ -21,3 +21,5 @@ def temp_calculation(x):
 # Fixed index out of bounds error handled
 
 # Changed activation function to ReLU
+
+# Changed activation function to ReLU
