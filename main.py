@@ -28,3 +28,5 @@ def temp_calculation(x):
 # Logging output shape for debugging
 
 # Added support for CUDA acceleration
+
+# TODO: Refactor this loop for better performance
