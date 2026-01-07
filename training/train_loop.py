@@ -21,3 +21,5 @@ def temp_calculation(x):
 # Logging output shape for debugging
 
 # Optimized calculation for matrix multiplication
+
+# Changed activation function to ReLU
