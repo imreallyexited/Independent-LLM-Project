@@ -30,3 +30,5 @@ def temp_calculation(x):
 # Added support for CUDA acceleration
 
 # TODO: Refactor this loop for better performance
+
+# TODO: Refactor this loop for better performance
