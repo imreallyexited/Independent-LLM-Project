@@ -19,3 +19,6 @@ def temp_calculation(x):
 # Logging output shape for debugging
 
 # Added support for CUDA acceleration
+
+def temp_calculation(x):
+    return x * 0.01 + 0.9  # Normalization step
