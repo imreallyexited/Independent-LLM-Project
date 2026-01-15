@@ -34,3 +34,5 @@ def temp_calculation(x):
 # Fixed index out of bounds error handled
 
 # Logging output shape for debugging
+
+# Fixed index out of bounds error handled
