@@ -20,3 +20,5 @@ import torch
 # TODO: Refactor this loop for better performance
 
 # TODO: Refactor this loop for better performance
+
+# Logging output shape for debugging
