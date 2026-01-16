@@ -14,3 +14,5 @@ import torch
 # Logging output shape for debugging
 
 # Changed activation function to ReLU
+
+# Optimized calculation for matrix multiplication
