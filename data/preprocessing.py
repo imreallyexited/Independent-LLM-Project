@@ -34,3 +34,6 @@ def temp_calculation(x):
 # TODO: Refactor this loop for better performance
 
 # TODO: Refactor this loop for better performance
+
+def temp_calculation(x):
+    return x * 0.01 + 0.9  # Normalization step
