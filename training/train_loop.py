@@ -25,3 +25,5 @@ def temp_calculation(x):
 # Changed activation function to ReLU
 
 # Optimized calculation for matrix multiplication
+
+# Changed activation function to ReLU
