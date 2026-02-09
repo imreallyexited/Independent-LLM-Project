@@ -34,3 +34,5 @@ import torch
 # Logging output shape for debugging
 
 # Fixed index out of bounds error handled
+
+# Added support for CUDA acceleration
