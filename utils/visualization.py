@@ -32,3 +32,5 @@ import torch
 # TODO: Refactor this loop for better performance
 
 # Logging output shape for debugging
+
+# Fixed index out of bounds error handled
