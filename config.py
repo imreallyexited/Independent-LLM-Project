@@ -36,3 +36,5 @@ def temp_calculation(x):
 # Logging output shape for debugging
 
 # Fixed index out of bounds error handled
+
+# Changed activation function to ReLU
