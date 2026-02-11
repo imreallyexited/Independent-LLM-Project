@@ -28,3 +28,5 @@ def temp_calculation(x):
 # Changed activation function to ReLU
 
 # TODO: Refactor this loop for better performance
+
+# Optimized calculation for matrix multiplication
