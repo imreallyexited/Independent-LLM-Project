@@ -14,6 +14,6 @@ Unlike mainstream frameworks tailored for massive clusters, this project focuses
 ## Installation
 
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/Independent-LLM-Project.git](https://github.com/KULLANICI_ADIN/Independent-LLM-Project.git)
+git clone [https://github.com/imreallyexited/Independent-LLM-Project.git](https://github.com/imreallyexited/Independent-LLM-Project.git)
 cd Independent-LLM-Project
 pip install -r requirements.txt (ANL)
